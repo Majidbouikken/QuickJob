@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323117679582",
+    "firebase_url": "https://ineed-4330f.firebaseio.com",
+    "project_id": "ineed-4330f",
+    "storage_bucket": "ineed-4330f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323117679582:android:f873f186aec4d461",
+        "android_client_info": {
+          "package_name": "com.example.quickjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323117679582-tbevnhr87hi2p14ttb71fnbe9gupjif8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwCYQPqqRdfVHtYxNlI3Qr8TUpaN_F88w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323117679582-tbevnhr87hi2p14ttb71fnbe9gupjif8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
